@@ -117,15 +117,15 @@ SassなりCoffeeなりする場合はソレ
 ├── Gruntfile.js
 ├── dest # 1-2.assembleしてここに展開
 │  └── assets
-│      ├── css # 3-2.cssをここにコピー
-│      ├── imgs # 4-2.画像をここにコピー
-│      └── js # 5-2.jsをここにコピー
+│      ├── css # 2-2.cssをここにコピー
+│      ├── imgs # 3-2.画像をここにコピー
+│      └── js # 4-2.jsをここにコピー
 └── src
     ├── assemble # 1-1.assembleの変更で
     └── assets
-        ├── css # 3-1.cssの変更で
-        ├── imgs # 4-1.画像の変更で
-        └── js # 5-1.jsの変更で
+        ├── css # 2-1.cssの変更で
+        ├── imgs # 3-1.画像の変更で
+        └── js # 4-1.jsの変更で
 ```
 
 watchしてコピー  

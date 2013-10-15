@@ -266,3 +266,12 @@ minifyらを色々する。htmlminもできる。
 結構素敵な感じがする
 
 マッチする案件では試してみたい感
+
+----
+
+## 参考
+
+* [Assemble](http://assemble.io/)
+* [CodeGrid](http://www.codegrid.net/)のassemble連載
+* そのサンプル: [pxgrid/codegrid-assemble](https://github.com/pxgrid/codegrid-assemble)
+
